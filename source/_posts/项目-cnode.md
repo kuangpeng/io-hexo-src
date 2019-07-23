@@ -12,6 +12,9 @@ categories:
 ### 项目说明
 使用vue实现cnode社区([https://cnodejs.org/](https://cnodejs.org/))移动版，使用社区提供的接口请求数据，包含 主页帖子列表、帖子详情、帖子评论、个人主页(简版)、登录页。
 
+访问地址: [kpcnode2](http://kuangpeng.site/kpcnode2/dist/)
+github地址：[https://github.com/kuangpeng/kpcnode2](https://github.com/kuangpeng/kpcnode2)
+
 
 ### 技术点
 采用vue-cli脚手架搭建项目框架，vuex为项目状态管理,vue-router为页面路由, 前端框架使用 Vant。
